@@ -77,6 +77,8 @@ pytest
 
 🏗️ Tech Stack
 
+# Tech Stack
+
 | **Component** | **Technology** |
 |---------------|----------------|
 | **Backend**   | FastAPI        |
