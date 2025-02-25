@@ -79,11 +79,12 @@ pytest
 
 | **Component** | **Technology** |
 |---------------|----------------|
-| **Backend** | FastAPI        |
-| **Frontend** | Streamlit      |
+| **Backend** | FastAPI |  
+| **Frontend** | Streamlit |
 | **Database** | SQLite / MySQL |
 | **Logging** | Python Logging |
-| **Testing** | Pytest         |
+| **Testing** | Pytest |
+
 
  📢 Contributing
 We welcome your contributions! To get started:
