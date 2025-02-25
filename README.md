@@ -105,7 +105,7 @@ Every contribution is highly appreciated!
 ✉️ Contact
 •Phone: +91 7340726877
 •Email: burgalakrishnasavera@gmail.com
-•GitHub: savera1226/
+•GitHub: savera1226
 
 🚀 Track Smarter, Spend Better!
 Empower your financial decisions with data-driven insights. Happy tracking and happy coding!
