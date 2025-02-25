@@ -71,8 +71,8 @@ Execute the test suite to ensure both frontend and backend components work corre
 pytest
 
 🏗️ Tech Stack
-    | **Component** | **Technology**          |
-|--------------:|:------------------------|
+| **Component** | **Technology**          |
+|---------------|-------------------------|
 | **Backend**   | FastAPI                |
 | **Frontend**  | Streamlit              |
 | **Database**  | SQLite / MySQL         |
