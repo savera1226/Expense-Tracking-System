@@ -78,13 +78,11 @@ pytest
 🏗️ Tech Stack
 
 | **Component** | **Technology** |
-|--------------|----------------|
-| **Backend**   | FastAPI        |
-| **Frontend**  | Streamlit      |
-| **Database**  | SQLite / MySQL |
-| **Logging**   | Python Logging |
-| **Testing**   | Pytest         |
-
+| ---------- | -------------- |
+| **Backend | FASTAPI |
+| **Database** | Streamlit |
+| **Logging | Python Learning |
+| **Testing | Pytest |
 
  📢 Contributing
 We welcome your contributions! To get started:
