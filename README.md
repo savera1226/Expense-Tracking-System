@@ -75,15 +75,16 @@ Execute the test suite to ensure both frontend and backend components work corre
 ```bash
 pytest
 
-🏗️ Tech Stack
 
-| **Component** | **Technology** |
-|---------------|----------------|
-| **Backend** | FastAPI |
-| **Frontend** | Streamlit |
-| **Database** | SQLite / MySQL |
-| **Logging** | Python Logging |
-| **Testing** | Pytest |
+## 🚀 Tech Stack
+
+| *Component*  | *Technology*     |
+|--------------|-----------------|
+| *Backend*  | FastAPI         |
+| *Frontend* | Streamlit       |
+| *Database* | SQLite / MySQL  |
+| *Logging*  | Python Logging  |
+| *Testing*  | Pytest          |
 
  📢 Contributing
 We welcome your contributions! To get started:
